@@ -1,0 +1,15 @@
+geoclue
+speech-dispatcher
+hplip
+kernoops
+pulse
+nm-openvpn
+rtkit
+saned
+usbmux
+lescavi
+nvidia-persistenced
+divan
+clamav
+vnstat
+sshd
